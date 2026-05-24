@@ -33,7 +33,7 @@
 
 1. 下載或 Clone 此專案
    ```
-   git clone https://github.com/你的帳號/s1131501_林昱綸_Boardgames.git
+  https://github.com/Aaron66666666/s1131501_-_Boardgames.git
    ```
 
 2. 用 Visual Studio 2022 開啟 `s1131501_林昱綸_Boardgames.sln`
