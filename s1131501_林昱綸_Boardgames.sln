@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s1131501_林昱綸_Boardgames", "s1131501_林昱綸_Boardgames\s1131501_林昱綸_Boardgames.csproj", "{206C0F9E-D110-4A22-BF73-22352E46C4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206C0F9E-D110-4A22-BF73-22352E46C4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206C0F9E-D110-4A22-BF73-22352E46C4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206C0F9E-D110-4A22-BF73-22352E46C4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206C0F9E-D110-4A22-BF73-22352E46C4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD9FCBE1-DA97-4E8A-855A-CFD14A42FAF1}
+	EndGlobalSection
+EndGlobal
