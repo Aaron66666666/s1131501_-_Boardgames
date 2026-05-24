@@ -33,7 +33,7 @@
 
 1. 下載或 Clone 此專案
    ```
-  https://github.com/Aaron66666666/s1131501_-_Boardgames.git
+   git clone https://github.com/你的帳/s1131501_林昱綸_Boardgames.git
    ```
 
 2. 用 Visual Studio 2022 開啟 `s1131501_林昱綸_Boardgames.sln`
@@ -44,12 +44,7 @@
 
 ## 遊戲截圖
 
-> （請在此處貼上遊戲截圖）
-
-主選單：
-
 <img width="608" height="739" alt="image" src="https://github.com/user-attachments/assets/bf0dc347-52f9-495c-ab2f-e97ea17837c5" />
-
 
 黑白棋：
 
@@ -64,7 +59,6 @@
 五子棋：
 
 <img width="1133" height="930" alt="image" src="https://github.com/user-attachments/assets/2a7e99ca-0c87-452a-8fd0-6f06ddb2195b" />
-
 
 ## 專案結構
 
@@ -84,3 +78,5 @@ s1131501_林昱綸_Boardgames/
 - 五子棋規則：https://zh.wikipedia.org/wiki/五子棋
 - 井字棋規則：https://zh.wikipedia.org/wiki/井字棋
 - Windows Forms 官方文件：https://docs.microsoft.com/zh-tw/dotnet/desktop/winforms/
+
+
